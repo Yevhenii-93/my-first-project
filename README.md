@@ -1,4 +1,3 @@
 # my-first-project
 
-study
-test text
+This is my first project
